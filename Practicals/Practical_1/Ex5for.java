@@ -21,6 +21,9 @@ public class Ex5for{
                 //prints stars
                 System.out.print("* ");
             }
+
+            //prints new line
+            System.out.println();
         }
     }
 }
